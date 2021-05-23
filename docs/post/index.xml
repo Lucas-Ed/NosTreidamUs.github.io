@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>https://github.com/NosTreidamUs.github.io/post/</link>
+    <link>https://lucas-ed.github.io/NosTreidamUs.github.io/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/NosTreidamUs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lucas-ed.github.io/NosTreidamUs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postagem teste !</title>
-      <link>https://github.com/NosTreidamUs.github.io/post/primeira-postagem/</link>
+      <link>https://lucas-ed.github.io/NosTreidamUs.github.io/post/primeira-postagem/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/NosTreidamUs.github.io/post/primeira-postagem/</guid>
+      <guid>https://lucas-ed.github.io/NosTreidamUs.github.io/post/primeira-postagem/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
