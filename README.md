@@ -7,7 +7,7 @@
 
 ---
 ### Contribua 
-##### Para a seguinta carteira BTC
+##### Para a seguinte carteira BTC
 
 <div align="center">
 
