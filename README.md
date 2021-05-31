@@ -4,3 +4,12 @@
 
 ###  O site criado pode ser usado com github pages, e você pode conferir
 ### o resultado aqui: https://bit.ly/3ucv5mb
+
+---
+### Contribua
+
+<div align="center">
+![38z2dANBJQLttFoWej6G1QNnhCToa75vQg](img/donate.png)\
+38z2dANBJQLttFoWej6G1QNnhCToa75vQg
+
+</div>
